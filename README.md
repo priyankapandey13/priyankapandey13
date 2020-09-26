@@ -1,7 +1,11 @@
-<div style="">
-  <div style="">
 ### Hi there 👋
-I am Priyanka a budding🌱 fullstack developer based in Copenhagen(Denmark). I made a lot of small demos🤖 in this account. Besides that i am a foodie🍲 and love to travel✈️.
+<div style="width:100%;">
+  <div style="float:left;width:500px;">
+  <img src="./priyanka.png" style="width:377px;"/>
+</div>
+  <div style="float:right; display:flex;">
+    <p>
+        I am Priyanka a budding🌱 fullstack developer based in Copenhagen(Denmark). I made a lot of small demos🤖 in this account. Besides that i am a foodie🍲 and love to travel✈️.</p>
 <!--
 **priyankapandey13/priyankapandey13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -25,8 +29,7 @@ I am Priyanka a budding🌱 fullstack developer based in Copenhagen(Denmark). I 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/priyanka-sharma-b882121a/">Linkedin</a>...
 - ⚡ Fun fact: You can never be less awesome...
 </div>
-<div style="">
-</div>
+
 </div>
 <!-- 
 - 👯 I’m looking to collaborate on ...
