@@ -1,15 +1,9 @@
 ### Hi there 👋
 <div style="width:100%;">
-  <div style="float:left;width:500px;">
+    I am Priyanka a budding🌱 fullstack developer based in Copenhagen(Denmark). I made a lot of small demos🤖 in this account. Besides that i am a foodie🍲 and love to travel✈️.
+  
   <img src="./priyanka.png" style="width:377px;"/>
-</div>
-  <div style="float:right; display:flex;">
-    <p>
-        I am Priyanka a budding🌱 fullstack developer based in Copenhagen(Denmark). I made a lot of small demos🤖 in this account. Besides that i am a foodie🍲 and love to travel✈️.</p>
-<!--
-**priyankapandey13/priyankapandey13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
+  
 <a href="https://priyankasharma.netlify.app/" rel="nofollow">
   <img alt="Priyanka's Portfolio" src="https://img.icons8.com/ios-filled/344/resume-website.png" style="max-width:100%;" width="22px" align="left">
 </a>
@@ -30,7 +24,6 @@
 - ⚡ Fun fact: You can never be less awesome...
 </div>
 
-</div>
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
