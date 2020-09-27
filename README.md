@@ -12,7 +12,6 @@
 <a href="mailto:priyankaps131187@gmail.com" rel="nofollow">
   <img alt="Priyanka's Email" src="https://camo.githubusercontent.com/f7ce3a848a37de5412b2b86ea5aaa9dfea6f89d0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f74656c656772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/telegram.svg" style="max-width:100%;" width="22px" align="left">
 </a>
-<hr>
 <br>
 
 - 🔭 I’m currently working on something cool...
