@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div style="width:100%;">
     I am Priyanka a budding🌱 fullstack developer based in Copenhagen(Denmark). I made a lot of small demos🤖 in this account. Besides that i am a foodie🍲 and love to travel✈️.
-    
+<br>    
 <a href="https://priyankasharma.netlify.app/" rel="nofollow">
   <img alt="Priyanka's Portfolio" src="https://img.icons8.com/ios-filled/344/resume-website.png" style="max-width:100%;" width="22px" align="left">
 </a>
